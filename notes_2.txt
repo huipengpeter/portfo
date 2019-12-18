@@ -1,0 +1,27 @@
+==============writer registration transaction====================
+WriterApplicantDAO
+ApplicantWLHandler
+WriterApplicantManager
+profileCreatePassword.jsp
+
+==================================
+
+
+
+
+
+
+==================================
+
+
+
+
+
+
+==================================
+
+
+
+
+
+==================================

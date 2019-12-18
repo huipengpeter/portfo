@@ -1,0 +1,130 @@
+
+
+dev weblogic server - E:\webdev\amr.ear
+
+http://socdevwebapp03:7051
+amrstaff / summer
+
+amr logs
+D:\SocanWeb\Domains\SocanDev\servers\AMRdev\logs
+
+
+SIN - 046454286
+559 211 297, 432 271 013
+SSN - 634-54-0464 
+	486-60-7558 
+TIN - 900700000
+testłnxxÄgß
+testf/testl
+
+cretud@socan.ca / 1231231234
+
+ALLTRACK MUSIC RIGHTS Membership 
+41 Valleybrook Drive 
+North York, ON 
+M3B 2S6 Canada 
+
+D:\SocanWeb\Domains\SocanDev\servers\AMRdev\tmp
+'
+D:\SocanWeb\Domains\SocanDev\servers\AMRdev\tmp\_WL_user\amr\u6dy7a\jsp_servlet\_jsp\_en\_includes
+
+==============================
+E:\webdev\amr.ear\amr.war\jsp\en\includes -> member_header.jsp
+
+Address country move to last @@@ - Profile - > View/Edit Profile
+
+\jsp\en\mem\profileModification.jsp
+
+
+https://socdevwebapp03:7002/jsp/en/memberlogin.jsp
+
+For id and passwd: Victor / victor
+
+https://stackoverflow.com/questions/19407754/green-tick-to-appear-next-to-the-text
+
+TFS - https://soctfs.socan.can:8443/tfs/DataClef/AllTrack_Portal
+
+oracle dev db server : socdevwebodb03? the port number is 1521
+applview / readonly 
+memadm schema
+
+https://www.reduceimages.com/
+https://www142.lunapic.com/editor/
+https://htmlcolorcodes.com/
+https://www.alltrack.com/join-alltrack/
+
+alltrack affiliate Id - epicor member id
+alltrack song id - epicor work id
+
+
+https://stackoverflow.com/questions/14580346/vertical-divider-between-two-columns-in-bootstrap
+
+------Audiam
+
+http://10.10.29.52:7021/jsp/accessLogin.jsp
+userid: 1
+eraseR1812$
+test user(Client Code) - 614
+Client Email - cookc@socan.ca
+W9-US
+
+https://codepen.io/c2webdev/pen/zavJb
+
+oracle dev - audapplview/audapplview123 - Hostname: socdevwebodb03 - SID: socandev
+
+Remote -
+
+DEV share - \\socdevwebapp03\Portal-Dev-Share\Peter\AMR\defects\uat_June192019
+UAT share - \\socuatwebapp01\Portal-Uat-Share\peter\amr
+
+DEV: socdevwebapp03
+
+UAT : socuatwebapp01
+
+DB -
+DEV - SOCDEVSQLDB01      -> SOCSADEVSQLDB01
+UAT - socasauatsqldb01   -> SOCSAUATSQLDB01
+
+Weblogic -
+
+DEV - http://socdevwebapp03:17001/console/login/LoginForm.jsp peter/Pass123$
+UAT - http://socuatwebapp01:17001/console/login/LoginForm.jsp
+
+http://socuatwebapp01.socan.can:17001/console/
+
+username: PeterP
+password: Peng2019
+
+URL -
+DEV logs - D:\SocanWeb\Domains\SocanDev\servers\AMRdev\logs
+UAT logs -\\SOCUATWEBAPP01\AMR_logs
+
+
+https://www.infoworld.com/article/3304440/setting-an-active-menu-item-based-on-the-current-url-with-jquery.html
+
+
+fix the outlook -
+https://support.xink.io/support/solutions/articles/1000174376-mailto-links-do-not-open-outlook
+open excel -
+https://stackoverflow.com/questions/6784681/how-to-use-javascript-to-open-excel-html-file-in-excel-application
+
+SSN validation - https://howtodoinjava.com/regex/java-regex-validate-social-security-numbers-ssn/s
+
+TIN - https://social.msdn.microsoft.com/Forums/office/en-US/7b01f9d6-98f9-4f12-ba6f-ea94e1a6ebb2/i-need-to-validate-and-format-a-tin-number?forum=sharepointcustomizationprevious
+
+
+                     <a href="/controller?modulePageName=directDeposit&amp;subPage=addDirDepInfo&amp;language=en&amp;marieNo=<%loginUserBean.getMarieNo();%>" class="type3 size2">Direct Deposit</a> 
+
+dynamic populate the select box - 
+https://www.electrictoolbox.com/javascript-add-options-html-select/
+
+
+
+testłn
+
+
+
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+          
